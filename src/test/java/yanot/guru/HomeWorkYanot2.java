@@ -14,7 +14,7 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.*;
 
-public class HomeWorkYanot1 {
+public class HomeWorkYanot2 {
 
     @BeforeAll
     static void beforeAll() {
